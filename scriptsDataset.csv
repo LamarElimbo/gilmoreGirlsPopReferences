@@ -1,0 +1,1692 @@
+episode,reference,season,ref_type,figure_type,speaker
+20,air supply,1,music,,LORELAI
+2,dukes of hazzard,1,movie,,LORELAI
+20,amityville horror,1,book,,LORELAI
+2,anna karenina,1,book,,TEACHER
+20,anna nicole smith,1,figure,actor,LORELAI
+13,annie oakley,1,figure,sports,RORY
+3,antonio banderas,1,figure,actor,LORELAI
+11,arthur miller,1,figure,writer,LOUISE
+19,backstreet boys,1,music,,LORELAI
+19,balthazar,1,figure,fictional,LANE
+16,bambi,1,movie,character,RORY
+5,bangles,1,music,,MR. MEDINA
+13,bangles,1,music,,SOOKIE
+14,banshees,1,music,,LANE
+6,barbara hutton,1,figure,politics,LORELAI
+9,barbara stanwycky,1,figure,actor,LORELAI
+6,barbra streisand,1,figure,musician,LORELAI
+7,barbra streisand,1,figure,musician,LORELAI
+12,beattles,1,music,,LANE
+16,belle watling,1,movie,character,PARIS
+4,ben jonson,1,figure,sports,MAX
+15,billy crudup,1,figure,actor,CHRISTOPHER
+15,black sabbath,1,music,,CHRISTOPHER
+12,blondie,1,music,,RORY
+21,blue man group,1,music,,LORELAI
+3,bob barker,1,figure,personality,LORELAI
+19,boo radley,1,book,character,LORELAI
+7,boogie nights,1,movie,,DEAN
+15,brad pitt,1,figure,actor,JACKSON
+6,britney,1,figure,musician,LORELAI
+1,britney spears,1,figure,musician,RORY
+14,bush,1,music,,LANE
+15,bush,1,music,,CHRISTOPHER
+3,charlie brown,1,show,character,MICHEL
+15,charlie manson,1,figure,criminal,LORELAI
+12,cher,1,figure,musician,LORELAI
+19,cheryl ladd,1,figure,actor,RORY
+17,chris penn,1,figure,actor,LORELAI
+2,christiane amanpour,1,figure,reporter,RORY
+15,chuck berry,1,figure,musician,GRANDPA
+7,chuck heston,1,figure,actor,BABETTE
+16,chucky,1,movie,,LORELAI
+12,claudine longet,1,figure,musician,RORY
+21,courtney love,1,figure,actor,MADELINE
+5,dalai lama,1,figure,politics,LUKE
+11,dante,1,book,character,MAX
+2,david copperfield,1,figure,magician,TEACHER
+21,dick tracy,1,book,,LORELAI
+2,dickens,1,figure,writer,TEACHER
+11,dickenson,1,figure,writer,MAX
+9,does susan faludi,1,,,RORY
+5,dolly madison,1,figure,politics,RORY
+14,donna reed,1,figure,actor,DEAN
+14,donna reed show,1,show,,DEAN
+2,dostoevski,1,figure,writer,TEACHER
+14,duran duran,1,music,,LANE
+6,edith wharton,1,figure,writer,LORELAI
+3,edward james,1,figure,actor,RICHARD
+16,elizabeth barrett browning,1,figure,writer,PARIS
+11,emily dickenson,1,figure,writer,MAX
+1,eminem,1,figure,musician,LANE
+20,emma goldman,1,figure,writer,LORELAI
+8,erol flynn,1,figure,actor,EMILY
+6,farrah fawcett,1,figure,actor,EMILY
+19,farrah fawcett,1,figure,actor,RORY
+18,fergi,1,figure,musician,TRIX
+19,firelight festival,1,event,,RACHEL
+12,foo fighters,1,music,,LANE
+14,foo fighters,1,music,,RORY
+17,footloose,1,movie,,LORELAI
+7,gene hackman,1,figure,actor,CASHIER
+7,gene wilder,1,figure,actor,DEAN
+15,george clooney,1,figure,actor,JACKSON
+17,gommarah,1,show,,LANE
+14,grand duke peter,1,figure,politics,RORY
+2,harry potter,1,book,,MISS PATTY
+13,harvey fierstein,1,figure,actor,PARIS
+6,henny youngman,1,figure,comedian,EMILY
+21,henry david thoreau,1,figure,writer,LUKE
+20,henry james,1,figure,writer,MAX
+18,henry viii,1,figure,politics,RORY
+1,huckleberry finn,1,book,,MRS. TRAISTER
+11,hugh grant,1,figure,actor,RORY
+8,hunter thompson,1,figure,reporter,DEAN
+16,iron chef,1,show,,LORELAI
+20,isak dinesen,1,figure,writer,LORELAI
+1,jack kerouac,1,figure,writer,LORELAI
+19,jacklyn smith,1,figure,actor,RORY
+7,james dean,1,figure,actor,RORY
+8,jane austen,1,figure,writer,RORY
+17,jennifer lopez,1,figure,musician,PARIS
+14,jessica tandy,1,figure,actor,SOOKIE
+5,jim carrey,1,figure,actor,SOOKIE
+6,jim morrison,1,figure,musician,LORELAI
+10,jimmy hoffa,1,figure,politics,LUKE
+3,john cage,1,figure,musician,MRS. SHALES
+21,john muir,1,figure,writer,LUKE
+4,john webster,1,figure,writer,MAX
+19,johnny cash,1,figure,musician,RORY
+16,johnny depp,1,figure,actor,LORELAI
+19,joy division gloomy,1,music,,LANE
+21,judy garland,1,figure,actor,MADELINE
+3,julian johnson,1,figure,scientist,RICHARD
+19,kate jackson,1,figure,actor,RORY
+16,kathy bates,1,figure,actor,LORELAI
+18,kennedy,1,figure,politics,EMILY
+12,kraftwerk,1,music,,RORY
+2,leo tolstoy,1,figure,writer,TEACHER
+16,leopold,1,movie,,CHASE
+14,lewis carroll,1,figure,writer,LORELAI
+2,little dorrit,1,book,,TEACHER
+1,little match girl,1,book,,RORY
+7,liz phair,1,figure,musician,LANE
+14,lucy ricardo,1,figure,actor,LORELAI
+1,macy gray,1,figure,musician,RORY
+17,madam curie,1,figure,writer,PARIS
+1,madame bovary,1,book,character,DEAN
+18,madonna,1,figure,musician,LORELAI
+7,magnolia,1,movie,,RORY
+14,marcel marceau,1,figure,actor,LORELAI
+11,marcel proust,1,figure,writer,LORELAI
+11,marilyn monroe,1,figure,actor,LOUISE
+1,mark twain,1,figure,writer,LANE
+7,marky mark,1,figure,actor,DEAN
+14,marlin perkins,1,figure,personality,LORELAI
+19,martha washington,1,figure,politics,RORY
+2,martin luther,1,figure,activist,RORY
+18,marx brothers,1,figure,comedian,RORY
+14,melissa rivers,1,figure,personality,LORELAI
+3,mencken,1,figure,reporter,RICHARD
+20,meryl streep,1,figure,actor,LORELAI
+15,metallica,1,music,,RORY
+11,michael crichton,1,figure,writer,LORELAI
+14,michael douglas,1,figure,actor,LORELAI
+16,misery,1,movie,,LORELAI
+16,miss congeniality,1,movie,,LORELAI
+1,moby dick,1,book,,DEAN
+13,monty,1,movie,,LORELAI
+4,mozart,1,figure,musician,LORELAI
+21,mr. adolph eichmann,1,figure,criminal,MICHEL
+13,mr. birnbaum,1,book,character,SOOKIE
+3,mtv,1,show,,EMILY
+14,named desire,1,movie,,LORELAI
+11,nancy kerrigan,1,figure,sports,RORY
+19,nick cave,1,figure,musician,LANE
+7,nick drake,1,figure,musician,LANE
+1,officer krupke,1,movie,character,LORELAI
+5,oliver north,1,figure,politics,RORY
+7,oompa loompas,1,movie,character,RORY
+1,oprah,1,figure,personality,RORY
+4,pat benatar,1,figure,musician,DRELLA
+13,paul bunyan,1,book,character,LOUISE
+3,pepe,1,show,character,DRELLA
+21,peter frampton,1,figure,musician,LANE
+3,peyton place,1,show,,RICHARD
+3,philip glass,1,figure,musician,MRS. SHALES
+18,pink ladies,1,movie,character,MADELINE
+15,pinky tuscadero,1,show,character,CHRISTOPHER
+21,pj harvey,1,figure,musician,RORY
+9,ponyboy,1,movie,character,DEAN
+6,pope,1,figure,religion,LORELAI
+9,portable dorothy parker,1,book,,RORY
+7,prince charming,1,book,character,DEAN
+17,prince charming,1,book,character,LOUISE
+19,private ryan,1,movie,,LORELAI
+18,queen elizabeth,1,figure,politics,PARIS
+12,rapunzel,1,book,,RORY
+4,richard iii,1,figure,politics,LORELAI
+12,richard simmons,1,figure,personality,LORELAI
+11,rick james,1,figure,musician,RORY
+18,ricki ricardo,1,figure,actor,LORELAI
+11,ricky martin,1,figure,musician,LORELAI
+12,robert duvall,1,figure,actor,LORELAI
+7,robert redford,1,figure,actor,LORELAI
+19,robert smith,1,figure,musician,LANE
+17,robin leech,1,figure,personality,LANE
+5,rudolf gottfried,1,figure,scientist,EMILY
+1,rupaul,1,figure,personality,RORY
+1,ruth gordon,1,figure,actor,RORY
+3,samuel barber,1,figure,musician,MRS. SHALES
+15,schroeder,1,book,character,CHRISTOPHER
+3,sean penn,1,figure,actor,RORY
+17,sesame street,1,show,,LORELAI
+4,shakespeare,1,figure,producer,RORY
+13,shakespeare,1,figure,producer,LANE
+18,shakespeare,1,figure,producer,TRIX
+3,shania twain,1,figure,musician,MRS. SHALES
+19,shelly hack,1,figure,actor,RORY
+6,shirley temple,1,figure,actor,LORELAI
+14,sinatra,1,figure,musician,LANE
+14,siouxsie,1,music,,LANE
+3,sister sledge,1,music,,MRS. SHALES
+14,sister suffragette,1,movie,character,RORY
+9,sixteen candles,1,movie,,LORELAI
+14,sophie friedricke augustine,1,figure,politics,RORY
+9,squeaky fromme,1,figure,criminal,RORY
+8,star trek,1,show,,RORY
+4,steely dan,1,music,,LORELAI
+14,stella,1,movie,character,LORELAI
+18,stella,1,movie,character,EMILY
+1,stephen king,1,figure,writer,LORELAI
+19,steven tyler,1,figure,musician,LORELAI
+15,straub,1,figure,musician,GRANDMA
+14,tambourine man,1,music,,RORY
+19,tanya roberts,1,figure,actor,EMILY
+20,taylor hanson,1,figure,musician,RORY
+3,tiger woods,1,figure,sports,EMILY
+16,tito puente,1,figure,musician,MISS PATTY
+2,tolstoy,1,figure,writer,TEACHER
+16,tolstoy,1,figure,writer,RORY
+9,tom waits,1,figure,musician,LORELAI
+15,tony randall,1,figure,actor,LORELAI
+11,tonya harding,1,figure,sports,LORELAI
+2,virgin mary,1,figure,religion,LORELAI
+14,vivian leigh,1,figure,actor,SOOKIE
+6,vulcan,1,show,character,LORELAI
+19,vulcan,1,show,character,LORELAI
+11,walt whitman,1,figure,writer,MAX
+15,whoville,1,book,place,CHRISTOPHER
+14,william shatner,1,figure,actor,RORY
+7,willy wonka,1,movie,character,LORELAI
+2,xtc,1,music,,LANE
+12,yoko,1,music,,RORY
+1,zsa zsa gabor,1,figure,actor,LORELAI
+19,akira kurosawa,2,figure,producer,LORELAI
+14,alain ducasse,2,figure,chef,CHRISTOPHER
+6,alan parker,2,figure,producer,RICHARD
+13,andy hardy,2,movie,character,LORELAI
+12,angela landsbury,2,figure,actor,RORY
+19,angie dickinson,2,figure,actor,LORELAI
+12,anita bryant,2,figure,musician,LORELAI
+7,anne sexton,2,figure,writer,RORY
+21,annie hall,2,movie,,LORELAI
+22,annie sullivan,2,figure,teacher,LORELAI
+19,asaad kelada,2,figure,producer,KIRK
+13,ayn rand,2,figure,writer,JESS
+19,baby jane,2,movie,,LORELAI
+22,bambi,2,movie,character,LORELAI
+21,bangles,2,music,,RORY
+6,barbara hutton,2,figure,politics,CHRISTOPHER
+5,barbara walters,2,figure,reporter,RORY
+2,barbarella,2,movie,,DEAN
+7,barry manilow,2,figure,musician,RORY
+3,beatles,2,music,,CHRISTOPHER
+15,beatles,2,music,,TAYLOR
+21,beatles,2,music,,LORELAI
+5,beegees,2,music,,RORY
+2,bette midler,2,figure,actor,LUKE
+18,bhagavad gita,2,book,,PARIS
+9,billy graham,2,figure,religion,LORELAI
+8,billy idol,2,figure,musician,LORELAI
+3,billy jack,2,movie,,MAX
+15,birdie,2,figure,musician,JESS
+10,bjork,2,figure,musician,JESS
+5,black saint,2,,,LANE
+3,bob dylan,2,music,,CHRISTOPHER
+2,bob vila,2,figure,personality,RORY
+18,bobby fischer,2,figure,sports,PARIS
+1,bobby flay,2,figure,chef,LORELAI
+9,bono,2,figure,musician,RORY
+6,brady bunch,2,show,,LORELAI
+3,brian ferry,2,figure,musician,CHRISTOPHER
+14,bruce springsteen,2,figure,musician,RORY
+7,bryan adams,2,figure,musician,LORELAI
+16,bukowski,2,figure,musician,JESS
+9,butch cassidy,2,movie,character,PARIS
+19,cabin boy,2,movie,,LORELAI
+14,captain carl,2,movie,character,RORY
+2,castro,2,figure,politics,LORELAI
+3,celine dion,2,figure,musician,MICHEL
+20,chachi,2,show,character,TAYLOR
+5,charles mingus,2,figure,musician,LANE
+9,claire danes,2,figure,actor,LANE
+22,clinton,2,figure,politics,LORELAI
+19,coldplay,2,music,,RORY
+10,coppola,2,figure,producer,RORY
+10,costello,2,figure,musician,LORELAI
+11,coyote ugly,2,movie,,LORELAI
+1,cujo,2,movie,,MAX
+4,dark prince,2,book,,RORY
+18,david beckham,2,figure,sports,MICHEL
+4,david bowie,2,figure,musician,LANE
+21,david lee roth,2,figure,musician,JESS
+4,david lynch,2,figure,producer,LORELAI
+18,devo,2,music,,LANE
+17,dick nixon,2,figure,politics,LORELAI
+8,donald trump,2,figure,personality,SOOKIE
+6,doris duke,2,figure,personality,CHRISTOPHER
+20,dorothy parker,2,figure,writer,RORY
+3,electrawoman,2,movie,character,MAX
+2,elizabeth taylor,2,figure,actor,LORELAI
+15,elvis,2,figure,musician,TAYLOR
+4,elvis costello,2,figure,musician,LANE
+18,elvis costello,2,figure,musician,RORY
+9,emily post,2,figure,teacher,LORELAI
+13,ernest hemingway,2,figure,writer,RORY
+7,eudora welty,2,figure,writer,LORELAI
+22,farrelly,2,figure,producer,MADELINE
+7,fat albert,2,movie,,LORELAI
+7,faulkner,2,figure,writer,LORELAI
+5,fellini,2,figure,producer,LORELAI
+14,ferris bueller,2,movie,,RORY
+22,fitzgerald,2,figure,musician,SOOKIE
+12,flaubert,2,figure,writer,RICHARD
+10,forget charlie parker,2,movie,,BABETTE
+12,frank capra,2,figure,producer,PARIS
+1,frank sinatra,2,figure,musician,RORY
+4,fred gwynn,2,figure,actor,LORELAI
+13,freud,2,figure,scientist,LUKE
+22,garfield,2,show,,LUKE
+19,george clooney,2,figure,actor,LORELAI
+6,george lucas,2,figure,producer,LORELAI
+16,george washington,2,figure,politics,EMILY
+2,gettysburg address,2,event,,LORELAI
+22,gloria alred,2,figure,activist,LORELAI
+6,gloria vanderbilt,2,figure,artist,CHRISTOPHER
+7,gore vidal,2,figure,writer,LORELAI
+22,greg louganis,2,figure,sports,LORELAI
+1,gregg allman,2,figure,musician,RORY
+15,gretzky,2,figure,sports,LORELAI
+6,harriet beecher stowe literacy auction,2,figure,writer,EMILY
+13,henry cho,2,figure,comedian,LANE
+4,henry james,2,figure,writer,LORELAI
+4,herman munster,2,movie,character,LORELAI
+22,hey jude,2,music,,LORELAI
+8,holden caulfield,2,book,character,RORY
+4,hootie,2,music,,RADIO
+10,hotel california,2,music,,JACKSON
+22,hubert humphrey,2,figure,politics,PARIS
+18,huckleberry finn,2,book,,LORELAI
+12,hudson hawk,2,movie,,LORELAI
+15,ida morgenstern,2,show,character,RORY
+4,iggy pop,2,figure,musician,LANE
+18,ivan boesky,2,figure,business,CHIP
+1,ivana trump,2,figure,personality,BOOTSY
+16,jack kerouac,2,figure,writer,PARIS
+10,jack nicholson,2,figure,actor,LORELAI
+22,james dean,2,figure,actor,LUKE
+9,james lipton,2,figure,writer,LORELAI
+5,jams,2,music,,LANE
+16,jane austen,2,figure,writer,JESS
+13,jane fonda,2,figure,actor,RORY
+3,janet jackson,2,figure,musician,MICHEL
+12,jerry falwell,2,figure,religion,JESS
+9,jerry lee lewis,2,figure,musician,LORELAI
+17,jerry lewis,2,figure,actor,LORELAI
+21,jessica hahn,2,figure,actor,LORELAI
+3,joan crawford,2,figure,actor,EMILY
+22,jodie foster,2,figure,actor,LUKE
+17,joe dimaggio,2,figure,sports,LUKE
+4,john adams,2,figure,politics,LORELAI
+21,john bonham,2,figure,musician,RORY
+13,john cleese,2,figure,actor,DEAN
+3,john lennon,2,figure,musician,LORELAI
+21,john nash,2,figure,scientist,LORELAI
+6,john travolta,2,figure,actor,LORELAI
+11,john waters,2,figure,producer,RORY
+17,johnny unitas,2,figure,sports,LUKE
+17,juan valdez,2,figure,personality,LORELAI
+16,kafka,2,figure,writer,RORY
+7,kate moss,2,figure,model,LORELAI
+4,katherine hepburn,2,figure,actor,LORELAI
+12,kathie lee gifford,2,figure,personality,JESS
+20,keith moon,2,figure,musician,LANE
+9,kevin bacon,2,figure,actor,LORELAI
+14,kevorkian,2,figure,activist,RORY
+17,lady godiva,2,figure,politics,TAYLOR
+7,leonardo,2,figure,actor,RORY
+13,lillian hellman,2,figure,writer,RORY
+6,lily tomlin,2,figure,comedian,LORELAI
+4,linkin park,2,music,,LORELAI
+20,little locksmith,2,book,,RORY
+16,luca brasi,2,movie,character,LORELAI
+9,macbeth,2,book,,TEACHER
+19,maclaine,2,figure,actor,LORELAI
+21,marcus schenkenberg,2,figure,model,LORELAI
+7,mariah carey,2,figure,musician,FRANCIE
+18,mark twain,2,figure,writer,RORY
+6,mark twain house,2,figure,writer,EMILY
+9,martha stewart,2,figure,business,SOOKIE
+14,martha stewart,2,figure,business,LORELAI
+22,martha stewart,2,figure,business,CHRISTOPHER
+14,martin sheen,2,figure,actor,LORELAI
+15,mary poppins,2,movie,,TAYLOR
+7,matrix,2,movie,,LORELAI
+14,matthew broderick,2,figure,actor,RORY
+1,melissa rivers,2,figure,personality,LORELAI
+1,melissa rivers story,2,figure,personality,RORY
+9,meryl streep,2,figure,actor,LORELAI
+5,metallica,2,music,,JESS
+14,metallica,2,music,,RICHARD
+21,michael landon,2,figure,actor,LORELAI
+21,mick jagger,2,figure,musician,LORELAI
+20,mickey,2,show,character,BABETTE
+3,mike todd,2,figure,producer,MISS PATTY
+16,miss daisy,2,movie,,LORELAI
+2,mother teresa,2,figure,activist,RORY
+18,motley crue,2,music,,LORELAI
+10,mozart,2,figure,musician,EMILY
+22,mr. nixon,2,figure,politics,PARIS
+9,mystic pizza,2,movie,,PARIS
+11,nancy drew,2,book,,MADELINE
+7,nancy reagan,2,figure,politics,RORY
+18,napoleon,2,figure,politics,LOUISE
+20,neil peart,2,figure,musician,LANE
+6,neil young,2,figure,musician,LORELAI
+4,nicholas cage,2,figure,actor,RORY
+21,nietzsche,2,figure,writer,CHRISTOPHER
+9,no doubt,2,music,,RORY
+7,olivia newton john,2,figure,musician,RORY
+18,ozzy osbourne,2,figure,musician,LORELAI
+12,pat buchanon,2,figure,politics,JESS
+12,patricia krenwinkle,2,figure,criminal,RICHARD
+8,paul revere,2,figure,politics,SOOKIE
+19,paula zahn,2,figure,reporter,JESS
+19,pauline kale,2,,,LORELAI
+4,pope,2,figure,religion,RORY
+18,posh spice,2,figure,musician,MICHEL
+20,powell,2,figure,politics,RORY
+9,powerpuff,2,show,,LORELAI
+11,purple rain,2,movie,,SOOKIE
+3,queen victoria,2,figure,politics,SOOKIE
+17,rapunzel,2,book,,TAYLOR
+8,rembrandt,2,figure,artist,LORELAI
+20,rick allen,2,figure,musician,LANE
+14,ricki lake,2,figure,personality,RORY
+16,risky business,2,movie,,LORELAI
+11,robert benchley,2,figure,writer,LORELAI
+11,rocky horror picture show,2,movie,,LORELAI
+17,romanovs,2,figure,politics,EMILY
+9,romeo,2,book,,LUKE
+12,ruth gordon,2,figure,actor,RORY
+7,saks,2,figure,writer,LADY
+1,sally field,2,figure,actor,LANE
+15,santa claus,2,figure,fictional,JESS
+22,santa claus,2,figure,fictional,LORELAI
+19,seven samurai,2,movie,,LORELAI
+15,shaggs,2,music,,RORY
+9,shakespeare,2,figure,producer,LORELAI
+5,shaun asher,2,figure,sports,LOUISE
+21,shaun cassidy,2,figure,producer,LORELAI
+5,shawshank redemption,2,movie,,LORELAI
+8,siegfried,2,figure,magician,LORELAI
+2,sinatra,2,figure,musician,RORY
+5,sinner lady,2,music,,LANE
+19,snow dogs,2,movie,,LORELAI
+7,snow white,2,book,,IVY
+2,speed racer,2,movie,,LORELAI
+7,spice girls,2,music,,LORELAI
+9,stalin,2,figure,politics,LORELAI
+19,stan freberg,2,figure,writer,LORELAI
+19,steely dan,2,music,,JESS
+1,stephanie seymour,2,figure,model,LORELAI
+1,stephen hawking,2,figure,scientist,LORELAI
+13,sylvester stallone,2,figure,actor,LORELAI
+10,tammy faye baker,2,figure,religion,LORELAI
+16,ted nugent,2,figure,musician,LORELAI
+10,thomas crown affair,2,movie,,RUNE
+12,tom petty,2,music,,LORELAI
+9,tommy lee,2,figure,musician,LORELAI
+1,tonight show,2,show,,LORELAI
+21,tonto,2,movie,character,LORELAI
+3,the tonight show,2,show,,LORELAI
+11,tony soprano,2,show,character,LORELAI
+8,trekkie,2,show,,LORELAI
+9,twilight zone,2,show,,PAUL
+8,van gogh,2,figure,artist,LORELAI
+17,van halen,2,music,,TAYLOR
+10,washington irving,2,figure,writer,SOOKIE
+16,west side story,2,movie,,JESS
+8,will robinson,2,figure,sports,LORELAI
+13,william holden,2,figure,actor,RORY
+17,willie mays,2,figure,sports,LUKE
+14,willie nelson,2,figure,musician,PARIS
+21,woody allen,2,figure,producer,LORELAI
+15,young frankenstein,2,movie,,LORELAI
+15,yule gibbons,2,figure,outdoorsman,LORELAI
+1,zelda fitzgerald,2,figure,writer,LORELAI
+7,zsa zsa gabor,2,figure,actor,RORY
+4,ace ventura,3,movie,,RORY
+13,adrian zmed,3,figure,actor,LORELAI
+3,agent orange,3,music,,RORY
+14,amy grant,3,figure,musician,ZACH
+6,andy griffith,3,figure,actor,JESS
+2,andy hardy,3,movie,character,JESS
+20,animal house,3,movie,,LUKE
+22,anna karenina,3,book,,RORY
+21,anne boleyn,3,figure,politics,RORY
+6,annie hall,3,movie,,RORY
+10,annie hall,3,movie,,LORELAI
+2,annie oakley,3,figure,sports,LORELAI
+5,antonio banderas,3,figure,actor,RORY
+21,antonio banderas,3,figure,actor,LORELAI
+22,antonio banderas,3,figure,actor,PARIS
+1,archie,3,book,character,RORY
+20,archie,3,book,character,RABBI
+21,audrey hepburn,3,figure,actor,MISS CELINE
+13,aunt maureen,3,movie,character,EMILY
+18,aunt tilly,3,show,character,LUKE
+2,bagger vance,3,movie,,LORELAI
+22,bambi,3,movie,character,GYPSY
+3,bananarama,3,music,,LORELAI
+19,barbara epstein,3,figure,writer,BARBARA
+15,beach boys,3,music,,LORELAI
+3,beatles,3,music,,PARIS
+11,ben hur,3,book,,EMILY
+14,bette davis,3,figure,actor,MISS PATTY
+10,betty boop,3,show,,EMILY
+17,bill borden,3,figure,producer,MANAGER
+16,billy carter,3,figure,business,PARIS
+6,billy joel,3,figure,musician,SHERRY
+17,billy joel,3,figure,musician,RORY
+5,blue crush,3,movie,,JESS
+7,blue velvet,3,music,,DAVE
+22,bob vila,3,figure,personality,SOOKIE
+7,bobby brady,3,show,character,SHANE
+5,bongo bear,3,movie,,WOMAN 2
+1,bono,3,figure,musician,PARIS
+4,bono,3,figure,musician,LORELAI
+3,bowie,3,figure,musician,LANE
+3,brady bunch variety hour,3,show,,RORY
+3,brahma,3,figure,religion,LORELAI
+3,brat pack,3,figure,musician,EMILY
+3,bruce springsteen,3,figure,musician,LORELAI
+18,bush,3,music,,LORELAI
+3,butthole surfers,3,music,,DAVE
+21,caligula,3,figure,politics,SASHA
+18,cameron diaz,3,figure,actor,JOE
+22,captain stubing,3,show,character,LORELAI
+19,carrie,3,movie,,CARRIE
+1,carson daly,3,figure,personality,PARIS
+10,charlemagne,3,figure,politics,RORY
+3,charlie rose,3,figure,personality,PARIS
+17,charlie rose,3,figure,personality,RORY
+16,chita rivera,3,figure,actor,PARIS
+21,christiane amanpour,3,figure,reporter,LORELAI
+10,chuck berry,3,figure,musician,RICHARD
+10,chuck berry live,3,figure,musician,RORY
+9,cindy lou,3,movie,character,RORY
+13,cirque du soleil,3,event,,RORY
+3,clash,3,music,,DAVE
+2,clemenza,3,movie,character,LORELAI
+3,clinton,3,figure,politics,RORY
+1,colin powell,3,figure,politics,PARIS
+4,coltrane,3,figure,musician,LANE
+14,columbo,3,show,character,JESS
+22,creedence clearwater revival,3,music,,JACKSON
+4,daffy duck,3,show,character,LORELAI
+3,danny gans,3,figure,musician,RORY
+3,david bowie,3,figure,musician,RORY
+5,david bowie,3,figure,musician,LORELAI
+3,dead kennedys,3,music,,DAVE
+3,dead souls,3,music,,RORY
+14,dean martin,3,figure,actor,LORELAI
+14,dean martin roast,3,figure,musician,LORELAI
+19,debbie allen,3,figure,actor,LORELAI
+7,debbie reynolds,3,figure,actor,LORELAI
+2,degas,3,figure,artist,SOOKIE
+22,deney terrio,3,figure,dancer,SOOKIE
+18,dickinson,3,figure,writer,PARIS
+3,diebenkorn,3,figure,artist,DARREN
+17,doctor tarr,3,figure,reporter,LORELAI
+3,dogtown,3,show,,TAYLOR
+14,don rickles,3,figure,comedian,RORY
+19,doug henning,3,figure,magician,LORELAI
+17,ed wood,3,figure,producer,LORELAI
+17,edgar allen poe society,3,figure,writer,LORELAI
+5,einstein,3,figure,scientist,PEYTON
+14,elaine stritch,3,figure,actor,MISS PATTY
+2,elizabeth arden,3,figure,business,PARIS
+7,elizabeth taylor,3,figure,actor,EMILY
+18,eminem show,3,figure,musician,JESS
+5,erin brockovich,3,figure,activist,WOMAN
+22,eudora welty,3,figure,writer,RORY
+17,family feud,3,show,,JESS
+3,faulkner,3,figure,writer,LORELAI
+22,faulkner,3,figure,writer,RORY
+7,fisher stevens,3,figure,actor,LORELAI
+13,footloose,3,movie,,LORELAI
+8,frank lloyd wright,3,figure,writer,EMILY
+17,fred larson,3,figure,politics,LORELAI
+1,freddie prinze,3,figure,actor,PARIS
+15,full metal jacket,3,movie,,ZACH
+13,funny girl,3,movie,,LORELAI
+17,general hospital,3,show,,PARIS
+21,general lee,3,show,,SASHA
+17,gettysburg address,3,event,,MICHEL
+21,ginger rogers,3,figure,actor,EMILY
+1,glenn close,3,figure,actor,PARIS
+8,gloria estefan,3,figure,musician,RORY
+15,gloria vanderbilt,3,figure,artist,LORELAI
+2,goldilocks,3,book,,FRANCIE
+17,good witch,3,movie,,MICHEL
+21,gore vidal,3,figure,writer,RORY
+13,graydon carter,3,figure,reporter,MAUREEN
+11,great gatsby,3,movie,,LORELAI
+4,gwen stefani,3,figure,musician,LANE
+14,hairspray,3,movie,,LORELAI
+17,hank williams,3,figure,musician,LORELAI
+22,harriet beecher stowe,3,figure,writer,RORY
+8,harris fellows,3,figure,politics,RICHARD
+3,harry potter,3,book,,CAROL
+19,harry potters,3,book,,ZACH
+8,helena bonham carter,3,figure,actor,LORELAI
+2,helmett newton,3,figure,artist,PARIS
+20,henry vi,3,figure,politics,MRS. KIM
+22,herb albert,3,figure,musician,SOOKIE
+3,hillary clinton,3,figure,politics,RORY
+16,hirschfeld,3,figure,artist,LORELAI
+14,holy barbarians,3,music,,RORY
+15,hoosiers,3,movie,,TAYLOR
+13,howard stern,3,figure,personality,SHERRY
+19,hummels,3,figure,sports,KYLE
+22,ignatius j. reilly,3,book,character,RORY
+3,jackson browne,3,figure,musician,LORELAI
+19,james bond,3,movie,character,JESS
+22,jane austen,3,figure,writer,RORY
+12,jayne mansfield,3,figure,actor,RORY
+3,jello biafra,3,figure,musician,LANE
+16,jerome robbins,3,figure,dancer,PARIS
+11,jerry garcia,3,figure,musician,PARIS
+9,jerry lewis,3,figure,actor,CLAUDE
+3,jethro tull,3,figure,musician,LANE
+4,jim carrey,3,figure,actor,RORY
+4,jimmy buffett,3,figure,musician,LORELAI
+2,jimmy carter,3,figure,politics,FRANCIE
+21,jimmy stewart,3,figure,actor,MISS CELINE
+11,joan didion,3,figure,writer,PARIS
+12,joanna cooper,3,figure,model,LUKE
+18,joe strummer,3,figure,musician,TOBIN
+19,john entwistle,3,figure,musician,ZACH
+11,john mattern,3,figure,musician,LECTURER
+11,john williams,3,figure,musician,PARIS
+3,johnny bravo,3,show,character,LORELAI
+17,justin timberlake,3,figure,musician,PARIS
+3,kate hudson,3,figure,musician,LORELAI
+18,kate hudson,3,figure,musician,RORY
+4,kelly osbourne,3,figure,personality,LANE
+9,kennedy,3,figure,politics,LORELAI
+13,kentucky derby,3,event,,MICHEL
+8,kierkergaard,3,figure,writer,RORY
+3,kinks,3,music,,DAVE
+16,kofi annan,3,figure,politics,PARIS
+21,koko,3,figure,personality,SASHA
+13,korean war,3,event,,MADELINE
+10,korn,3,music,,TRIX
+14,lacey schwartz,3,figure,producer,LANE
+4,larry king,3,figure,reporter,LORELAI
+4,lawrence welk,3,figure,musician,ZACH
+3,lazar wolf,3,movie,character,LORELAI
+16,lee iacocca,3,figure,reporter,RORY
+21,legolas,3,movie,character,SASHA
+19,leif garrett,3,figure,musician,SOOKIE
+1,leon troutsky,3,figure,politics,LORELAI
+18,leonardo dicaprio,3,figure,actor,KIRK
+7,liam neeson,3,figure,actor,ANDREW
+14,lord jim,3,book,,EMILY
+4,louis armstrong,3,figure,musician,LORELAI
+22,love boat,3,show,,LORELAI
+14,lyndon johnson,3,figure,politics,LORELAI
+3,macbeth,3,book,,JACK
+12,macbeth,3,book,,LORELAI
+16,malcolm forbes,3,figure,business,RORY
+5,marathon man,3,movie,,LORELAI
+2,margaret thatcher,3,figure,politics,FRANCIE
+21,marie claire,3,figure,business,LOUISE
+17,mark twain,3,figure,writer,RORY
+10,marlo thomas,3,figure,actor,FRANCIE
+7,martha graham,3,figure,dancer,RORY
+2,martin sheen,3,figure,actor,FRANCIE
+16,mary martin,3,figure,actor,PARIS
+3,matisse,3,figure,artist,DARREN
+3,merry wives,3,book,,JACK
+17,meryl streep,3,figure,actor,LORELAI
+18,meryl streep,3,figure,actor,KIRK
+2,meyer lansky,3,figure,criminal,RORY
+5,miami sound machine,3,music,,LORELAI
+16,michael mason,3,figure,sports,LOUISE
+15,michael moore,3,figure,politics,LORELAI
+21,michael moore,3,figure,politics,LORELAI
+19,michelle branch,3,figure,musician,LINDSAY
+2,mickey,3,show,character,MICHEL
+9,mickey mouse,3,show,character,CLAUDE
+17,mickey mouse,3,show,character,JESS
+19,milli vanilli,3,music,,DAVE
+17,mira sorvino,3,figure,actor,PARIS
+15,miss congeniality,3,movie,,LORELAI
+21,miss manners,3,figure,reporter,LORELAI
+15,moliere,3,figure,writer,RICHARD
+6,molly ringwald,3,figure,actor,LORELAI
+16,monte cristo,3,book,,LORELAI
+14,monty python,3,movie,,LUKE
+14,moose murders,3,book,,ALEX
+8,nancy reagan,3,figure,politics,LUKE
+1,napoleon,3,figure,politics,LORELAI
+22,napoleon,3,figure,politics,RORY
+21,natalie wood,3,figure,actor,MISS CELINE
+16,nathan lane,3,figure,actor,BRAD
+19,neville chamberlain,3,figure,politics,PARIS
+17,nicholas nickleby,3,book,,LORELAI
+3,nirvana,3,music,,LANE
+19,nirvana,3,music,,LANE
+2,noam chomsky,3,figure,writer,FRANCIE
+14,norma desmond,3,movie,character,LORELAI
+1,norman rockwell,3,figure,artist,RICHARD
+18,oompa loompas,3,movie,character,LUKE
+16,oscar wilde,3,figure,writer,RORY
+12,pamela des barres,3,figure,actor,RORY
+22,patti smith,3,figure,musician,RORY
+2,paul newman,3,figure,actor,LUKE
+12,peggy lee,3,figure,musician,LANE
+17,phil spector,3,figure,personality,JESS
+15,picasso,3,figure,artist,MRS. VAN WYCK
+22,pinocchio,3,book,,LORELAI
+18,polonius,3,book,character,LORELAI
+12,powerpuff girls,3,show,,LORELAI
+10,rain man,3,movie,,RORY
+6,randall bantikoff,3,figure,actor,LORELAI
+18,red hot chili peppers,3,music,,RORY
+18,renee estevez,3,figure,actor,MICHEL
+4,rhapsody,3,music,,LANE
+17,ricardo montalban,3,figure,actor,MISS PATTY
+13,richard gere,3,figure,actor,MICHEL
+4,richard nixon,3,figure,politics,LANE
+22,robert frost,3,figure,writer,RORY
+3,robert reed,3,figure,actor,LORELAI
+3,robertson davies,3,figure,writer,DARREN
+10,rolling stone,3,music,,LORELAI
+6,rosa parks,3,figure,activist,BABETTE
+16,ruth reichl,3,figure,writer,SOOKIE
+9,ryan phillippe,3,figure,actor,PARIS
+20,sammy davis,3,figure,actor,JESS
+2,santa claus,3,figure,fictional,LORELAI
+14,santa claus,3,figure,fictional,JESS
+19,santa claus,3,figure,fictional,JESS
+13,sara moulton,3,figure,chef,LORELAI
+18,scorsese,3,figure,producer,RORY
+1,senator barbara boxer,3,figure,politics,PARIS
+2,shakespeare,3,figure,producer,PARIS
+11,shaun cassidy,3,figure,producer,LORELAI
+13,sheldon harnick,3,figure,musician,RORY
+2,sister sledge,3,music,,LORELAI
+4,snoopy,3,show,,LANE
+1,snow white,3,book,,LORELAI
+3,spongebob squarepants,3,show,,LORELAI
+19,springsteen,3,figure,musician,RORY
+22,stephen sondheim,3,figure,musician,BRAD
+10,stuart little,3,movie,,JESS
+3,sylvia plath,3,figure,writer,RORY
+16,tasmanian,3,show,character,LORELAI
+7,ted bundy,3,figure,character,PARIS
+3,ted williams,3,figure,sports,LUKE
+7,tennessee williams,3,figure,writer,TAYLOR
+21,terry lewis,3,figure,musician,SASHA
+22,thomas edison,3,figure,politics,RORY
+22,tijuana brass,3,music,,JACKSON
+10,tina louise,3,figure,actor,RORY
+22,tom brokaw,3,figure,reporter,LORELAI
+7,tommy tune,3,figure,musician,LUKE
+7,tony manero,3,movie,,LANE
+18,tony randall,3,figure,actor,TOBIN
+21,tova borgnine,3,figure,business,MISS CELINE
+1,trent lott,3,figure,politics,RORY
+3,turgenev,3,figure,writer,DARREN
+10,victor hugo,3,figure,writer,TRIX
+4,vin diesel,3,figure,actor,LANE
+2,vince foster,3,figure,politics,LORELAI
+20,violet lady,3,figure,musician,MARJORIE
+3,vishnu,3,figure,religion,LORELAI
+6,wang chung,3,music,,LORELAI
+7,winona ryder,3,figure,actor,JACKSON
+9,yung hee,3,show,character,LANE
+20,zelda,3,figure,writer,RORY
+20,zelda fitzgerald,3,figure,writer,LORELAI
+21,ziggy,3,figure,musician,JIMMY
+3,zoltan kemeny,3,figure,artist,LORELAI
+3,aaron thompson,4,figure,sports,LORELAI
+11,abraham,4,figure,politics,PARIS
+14,adolphe menjou,4,figure,actor,EMILY
+15,alec baldwin,4,figure,actor,LORELAI
+7,alpheus,4,figure,mythology,TROUBADOUR
+20,american splendor,4,movie,,PARIS
+19,angelina jolie,4,figure,actor,LORELAI
+7,angus young,4,figure,musician,LANE
+13,ann jillian,4,figure,actor,LUKE
+17,anna nicole smith,4,figure,actor,LOUISE
+20,anne bancroft,4,figure,actor,LORELAI
+1,anne frank,4,figure,writer,SOOKIE
+2,annie leibovitz,4,figure,artist,RORY
+20,annie sullivan,4,figure,teacher,RORY
+12,arnold palmer,4,figure,sports,KIRK
+4,augustus gloop,4,movie,character,LORELAI
+15,ava gardner,4,figure,actor,LORELAI
+8,avril lavigne,4,figure,musician,RORY
+22,barbra streisands,4,figure,musician,TAYLOR
+2,barry white night,4,figure,musician,LORELAI
+15,baz luhrmann,4,figure,producer,LORELAI
+2,benjamin franklin,4,figure,politics,LORELAI
+5,benji,4,movie,,LORELAI
+20,bette midler,4,figure,actor,JESS
+15,betty boops,4,show,,LORELAI
+11,bill clinton,4,figure,politics,MARLA
+17,bill moyers,4,figure,politics,LORELAI
+22,blake edwards,4,figure,producer,LORELAI
+11,blondie,4,music,,LANE
+21,blossom deary,4,figure,musician,EMILY
+5,blowfish,4,music,,GUY
+18,bob sutton,4,figure,sports,RICHARD
+8,bob woodward,4,figure,reporter,DOYLE
+12,bobby mcferrin,4,figure,musician,LUKE
+9,breakfast club,4,movie,,RORY
+11,britney,4,figure,musician,RORY
+8,brown bunny,4,movie,,LORELAI
+4,bud fox,4,movie,character,LORELAI
+2,bush,4,music,,LUKE
+10,calista flockhart,4,figure,actor,PARIS
+2,carmen electra,4,figure,actor,LORELAI
+12,carrie,4,movie,,LIZ
+20,carrie,4,movie,,LIZ
+21,carrie,4,movie,,LORELAI
+14,celine dion,4,figure,musician,MICHEL
+15,charles dickens,4,figure,writer,LUKE
+9,charlie rose,4,figure,personality,ASHER
+11,charlie slater,4,show,character,SOOKIE
+14,charlize theron,4,figure,actor,RORY
+6,christian anderson,4,figure,writer,LORELAI
+2,christiane amanpour,4,figure,reporter,RORY
+14,cirque du soleil,4,event,,PARIS
+6,citizen kane,4,movie,,SOOKIE
+21,cleopatra,4,figure,politics,LORELAI
+11,cookie monster,4,show,,LANE
+1,corky jr.,4,figure,dancer,EMILY
+16,crimson petal,4,book,,EMILY
+5,cujo,4,movie,,LORELAI
+15,dalai lama,4,figure,politics,LANE
+12,david blaine,4,figure,magician,LORELAI
+17,david caruso,4,figure,actor,RORY
+18,dennis kucinich,4,figure,politics,LORELAI
+4,dexter holland,4,figure,musician,RORY
+2,don dewey,4,figure,musician,LUKE
+18,donna summer,4,figure,musician,LANE
+12,doobie brothers,4,figure,musician,LORELAI
+2,doogie,4,show,character,LORELAI
+10,eartha kitt,4,figure,actor,JASON
+11,eastwick,4,movie,,LORELAI
+12,easy rider,4,movie,,RORY'S VOICE
+1,eisenhower,4,figure,politics,JACKSON
+4,elvis,4,figure,musician,LUKE
+7,emilio estevez,4,figure,actor,LORELAI
+14,eminem,4,figure,musician,EMILY
+2,evanescence,4,music,,LORELAI
+10,fonzie,4,show,character,LORELAI
+2,frank sinatra,4,figure,musician,LUKE
+11,friedman,4,figure,business,FRIEDMAN
+11,garfunkel,4,figure,musician,GIL
+4,george washington,4,figure,politics,LORELAI
+6,gettysburg,4,event,,RICHARD
+4,glenn miller,4,figure,musician,ZACH
+4,greg ginn,4,figure,musician,RORY
+5,grey gardens,4,movie,,LORELAI
+10,harrison ford,4,figure,actor,PARIS
+18,harry chapin,4,figure,musician,JASON
+22,hayley mills,4,figure,actor,RORY
+3,heidi,4,book,,PARIS
+5,hemingway,4,figure,writer,PROFESSOR
+2,henry box brown,4,figure,activist,LORELAI
+18,herb benson,4,figure,scientist,FLOYD
+6,hillary,4,figure,politics,RORY
+5,hootie,4,music,,GUY
+5,horse supply,4,music,,LUKE
+10,hugh hefner,4,figure,personality,LORELAI
+5,humphrey bogart,4,figure,actor,LUKE
+5,ingrid bergman,4,figure,actor,LUKE
+12,jack nicholson,4,figure,actor,RORY'S VOICE
+21,james madison,4,figure,politics,MRS. KIM
+22,james spader,4,figure,actor,LANE
+4,janet jackson,4,figure,musician,LORELAI
+8,jason priestley,4,figure,actor,LORELAI
+16,jayson blair,4,figure,reporter,DOYLE
+4,jeannie,4,show,character,LORELAI
+14,jerry lewis,4,figure,actor,RORY
+9,jessica simpson,4,figure,musician,RORY
+20,jethro tull,4,figure,musician,JESS
+4,jim morrison,4,figure,musician,LUKE
+1,jimmy carter,4,figure,politics,LORELAI
+4,jimmy stewart,4,figure,actor,ZACH
+21,joan crawford,4,figure,actor,MISS PATTY
+7,john ashcroft,4,figure,politics,LORELAI
+3,john nash,4,figure,scientist,PARIS
+15,johnny rotten,4,figure,musician,ZACH
+17,joseph campbell,4,figure,writer,RORY
+15,joy division,4,music,,CHRISTINE
+21,julius caesar,4,figure,politics,LORELAI
+19,kafka,4,figure,writer,ASHER
+21,kafka,4,figure,writer,DEAN
+21,kajagoogoo,4,music,,KIRK
+4,kate hudson,4,figure,musician,LORELAI
+16,kay kyser,4,figure,musician,RICHARD
+2,keith richards,4,figure,musician,RORY
+4,kennedys,4,figure,politics,LUKE
+2,kissinger,4,figure,politics,LORELAI
+19,kofi annan,4,figure,politics,RORY
+2,lady bird johnson,4,figure,politics,LORELAI
+21,leslie van houten,4,figure,criminal,LORELAI
+15,libertines,4,music,,CHRISTINE
+18,lincoln memorial,4,figure,politics,MICHEL
+5,lindsay sidney greenbush,4,figure,actor,SOOKIE
+13,loretta bobbins,4,figure,criminal,EMILY
+19,lucille ball,4,figure,actor,LORELAI
+19,machiavelli,4,figure,politics,ASHER
+21,machiavelli,4,figure,politics,RORY
+1,mambo kings,4,music,,LORELAI
+3,mariah carey,4,figure,musician,SOOKIE
+10,mariah carey,4,figure,musician,LORELAI
+10,martha stewart,4,figure,business,RORY
+14,mary poppins,4,movie,,EMILY
+21,mel gibson,4,figure,actor,RORY
+21,methinks oingo boingo,4,music,,KIRK
+15,methuselah,4,figure,religion,RICHARD
+17,michael caine,4,figure,actor,LORELAI
+4,mick jagger,4,figure,musician,RORY
+3,mickey,4,show,character,MICKEY
+3,mommie dearest,4,movie,,SOOKIE
+13,morrison,4,figure,musician,KIRK
+11,mother theresa,4,figure,activist,LANE
+3,mount doom,4,movie,,LORELAI
+2,mozart,4,figure,musician,LUKE
+4,mozart,4,figure,musician,LUKE
+1,mr. sulu,4,show,character,LORELAI
+15,mummenschanz,4,figure,entertainer,LORELAI
+5,natalie zimmerman,4,figure,producer,EMILY
+5,national velvet,4,movie,,LUKE
+12,neal kinnock,4,figure,politics,PARIS
+11,new pornographers,4,music,,LANE
+14,nick nolte,4,figure,actor,JASON
+16,nixon,4,figure,politics,RORY
+14,noam chomsky,4,figure,writer,JANET
+7,norman rockwell,4,figure,artist,LORELAI
+20,oprah,4,figure,personality,LUKE
+2,orson welles,4,figure,writer,RORY
+11,osama,4,figure,criminal,WILLIAM
+7,oscar wilde,4,figure,writer,SOOKIE
+2,pat summerall,4,figure,sports,LORELAI
+1,patty hearst,4,figure,personality,LORELAI
+4,persis khambatta,4,figure,actor,LORELAI
+2,pettruccio,4,book,character,MR. STEIN 1
+7,pierre auguste,4,figure,artist,TAYLOR
+9,pink,4,figure,musician,JASON
+22,pink,4,figure,musician,RORY
+3,pink floyd,4,figure,musician,EMILY
+7,pink floyd,4,figure,musician,GIL
+2,pinnuccio,4,book,,LUKE
+6,pinocchio,4,book,,EMILY
+4,potter,4,movie,,MICHEL
+11,psycho,4,movie,,GIRL #2
+4,queer eye,4,show,,SOOKIE
+11,ramones,4,music,,BRIAN
+13,reo speedwagon,4,music,,LUKE
+18,richard iii,4,figure,politics,RICHARD
+1,ricky ricardo,4,figure,actor,JACKSON
+18,road runner,4,show,character,LORELAI
+13,robert downey,4,figure,actor,RORY
+12,roger moore,4,figure,actor,PARIS
+3,romanovs,4,figure,politics,LORELAI
+8,rosa parks,4,figure,activist,LORELAI
+15,roz russell,4,figure,actor,LORELAI
+8,salvador dali,4,figure,artist,LORELAI
+13,santa claus,4,figure,fictional,LORELAI
+5,scott fitzgerald,4,figure,politics,PROFESSOR
+15,sex pistols,4,music,,ZACH
+4,shakespeare,4,figure,producer,MICHEL
+9,sharon osbourne,4,figure,personality,EMILY
+5,shelley winters,4,figure,actor,LORELAI
+1,shirley ballas,4,figure,dancer,EMILY
+17,shirley maclaine,4,figure,actor,LORELAI
+7,simon peter,4,figure,religion,TROUBADOUR
+15,sister suffragette,4,movie,character,LORELAI
+1,sk8er boi,4,music,,LORELAI
+5,smiths,4,music,,RORY
+20,socrates,4,figure,writer,PARIS
+11,sonic youth,4,music,,LANE
+9,south park,4,show,,LORELAI
+11,stan green,4,figure,politics,REVEREND SKINNER
+10,stanford white,4,figure,business,RICHARD
+16,stephen glass,4,figure,reporter,DOYLE
+3,stephen king,4,figure,writer,RORY
+7,stevie wonder,4,figure,musician,LORELAI
+13,sylvia plath,4,figure,writer,LORELAI
+19,tabitha,4,show,character,KIRK
+11,talking heads,4,music,,LANE
+4,tattaglia,4,book,character,LORELAI
+12,ted kennedy,4,figure,politics,PARIS
+4,ted knight,4,figure,actor,KIRK
+9,ted koppel,4,figure,reporter,LORELAI
+13,thomas jefferson,4,figure,politics,T.J.
+7,thompson twins,4,music,,LORELAI
+19,timothy leary,4,figure,scientist,LORELAI
+8,tin man,4,movie,character,PARIS
+4,tlc,4,music,,TAYLOR
+16,tobey maguire,4,figure,actor,DOYLE
+6,todd rundgren,4,figure,musician,LORELAI
+20,vanessa redgrave,4,figure,actor,LIZ
+15,village people,4,music,,RORY
+20,vince williams,4,figure,sports,LUKE
+8,vincent gallo,4,figure,actor,LORELAI
+19,vulcan,4,show,character,BRIAN
+4,weezer,4,music,,ZACH
+15,white stripes,4,music,,CHRISTINE
+12,will robinson,4,figure,sports,LORELAI
+14,william safire,4,figure,reporter,JASON
+11,william shatner,4,figure,actor,KIRK
+1,wonder woman,4,show,,LORELAI
+10,woody allen,4,figure,producer,LORELAI
+15,zeppelin,4,figure,musician,LANE
+19,zorro,4,movie,character,LANE
+9,abe vigoda,5,figure,actor,LORELAI
+5,addams family,5,show,,LORELAI
+5,agent orange,5,event,,LORELAI
+20,al carson,5,figure,musician,RECEPTIONIST
+18,alicia kensington,5,figure,trans callgirl,LUKE
+19,alyssa milano,5,figure,actor,HONOR
+9,andrew mccarthy,5,figure,actor,LORELAI
+21,andy dick,5,figure,comedian,SOOKIE
+20,ann landers,5,figure,writer,MITCHUM
+22,anna nicole smith,5,figure,actor,LORELAI
+21,anne sexton,5,figure,writer,RORY
+19,annette bening,5,figure,actor,RORY
+16,apollo,5,figure,mythology,LORELAI
+8,aristotle onassis,5,figure,business,EMILY
+7,arnold palmer,5,figure,sports,LUKE
+6,arthur miller,5,figure,writer,LORELAI
+12,arthur miller,5,figure,writer,CELINE
+9,audrey hepburn,5,figure,actor,MARTY
+6,axl rose,5,figure,musician,LORELAI
+6,bangles,5,music,,LORELAI
+18,barbara boxer,5,figure,politics,LORELAI
+8,barefoot contessa,5,figure,chef,LORELAI
+4,ben affleck,5,figure,actor,SOOKIE
+21,ben stiller,5,figure,actor,SOOKIE
+11,benny hill,5,figure,comedian,RORY
+15,bernstein,5,figure,musician,DOYLE
+7,bill buford,5,figure,writer,LOGAN
+5,bill maher,5,figure,comedian,LORELAI
+5,billy dee williams,5,figure,actor,ZACH
+6,billy joel,5,figure,musician,SOOKIE
+10,bob graham,5,figure,politics,LORELAI
+6,bob woodward,5,figure,reporter,DOYLE
+6,boba fett fan club symposium,5,movie,character,DOYLE
+10,bradshaw,5,show,character,LORELAI
+21,brian eno,5,figure,musician,RORY
+12,buddy holly,5,figure,musician,LANE
+13,bugsy malone,5,figure,criminal,CHRIS
+17,butch coolidge,5,movie,character,LOGAN
+1,candy man,5,movie,,RORY
+5,captain hook,5,book,character,KYLE
+3,cecil beaton,5,figure,artist,EMILY
+13,cecil beaton,5,figure,artist,RICHARD
+17,charles dickens,5,figure,writer,LORELAI
+1,charlie chaplin,5,figure,actor,RICHARD
+12,charlie rose,5,figure,personality,LUKE
+8,chase anderson,5,figure,sports,EMILY
+6,chauncey gardiner,5,movie,character,DOYLE
+4,cher,5,figure,musician,TAYLOR
+21,chris rock,5,figure,comedian,LORELAI
+13,chuck berry,5,figure,musician,RICHARD
+14,chucky,5,movie,,MICHEL
+12,clark gable,5,figure,actor,CELINE
+20,clinton,5,figure,politics,RORY
+13,cole porter,5,figure,musician,RICHARD
+2,constantine,5,movie,,ZACH
+19,coyote ugly,5,movie,,LORELAI
+1,daisy miller,5,book,,RORY
+22,dakota fanning,5,figure,actor,LORELAI
+20,dan rather,5,figure,reporter,LORELAI
+2,dandy warhols,5,music,,BRIAN
+7,david byrne,5,figure,musician,ZACH
+11,david hume,5,figure,writer,PROFESSOR
+20,deadwood,5,show,,RORY
+3,dick shawn,5,figure,actor,PARIS
+4,dickens,5,figure,writer,RORY
+9,divine brown,5,figure,musician,SOOKIE
+1,dracula,5,book,,EMILY
+15,drew barrymore,5,figure,actor,LORELAI
+10,dylan thomas,5,figure,writer,RORY
+17,edith wharton,5,figure,writer,LORELAI
+6,edward james olmos,5,figure,actor,PARIS
+9,elizabeth hurley,5,figure,actor,LORELAI
+19,elizabeth hurley,5,figure,actor,LORELAI
+19,ellen,5,figure,comedian,LUKE
+14,emma goldman,5,figure,writer,PARIS
+16,ernest hemingway,5,figure,writer,RORY
+7,ernie pyle,5,figure,reporter,LOGAN
+15,ewan mcgregor,5,figure,actor,LORELAI
+14,fanny brice,5,figure,model,RORY
+20,fifty cent,5,figure,musician,TAYLOR
+21,franz ferdinand,5,figure,musician,LUCILLE
+11,franz schubert,5,figure,musician,RICHARD
+19,frodo,5,movie,character,LORELAI
+6,gabriel garcia marquez,5,figure,writer,LORELAI
+18,garret hobart,5,figure,politics,LORELAI
+18,garrison keillor,5,figure,writer,SOPHIE
+5,george kennedy,5,figure,politics,KIRK
+5,george lucas,5,figure,producer,RORY
+7,george plimpton,5,figure,reporter,LOGAN
+18,george washington,5,figure,politics,TAYLOR
+15,gisele bundchen,5,figure,model,PARIS
+17,gogo yubari,5,movie,character,RORY
+6,gore vidal,5,figure,writer,LORELAI
+19,han solo,5,movie,character,DOYLE
+17,harvey weinstein,5,figure,producer,WHITNEY
+13,hemingway,5,figure,writer,LUKE
+16,hemingway,5,figure,writer,RORY
+4,hendrix,5,figure,musician,GIL
+1,henry james,5,figure,writer,RORY
+2,hillary,5,figure,politics,LORELAI
+14,hillary clinton,5,figure,politics,PARIS
+2,hollywood babylon,5,book,,ZACH
+20,hotel rwanda,5,movie,,RORY
+9,hugh grant,5,figure,actor,LORELAI
+7,hunter thompson,5,figure,reporter,LOGAN
+12,inna godda davida,5,music,,GIL
+18,jack benny,5,figure,comedian,GYPSY
+11,jack frost,5,movie,,LUKE
+8,jake lamotta,5,figure,sports,TJ
+4,james joyce,5,figure,writer,LORELAI
+22,jane fonda,5,figure,actor,TAYLOR
+18,jebediah,5,music,,TAYLOR
+20,jebediah,5,music,,LUKE
+10,jessica simpson,5,figure,musician,LORELAI
+16,jessica simpson,5,figure,musician,LANE
+4,jimmy caan,5,figure,actor,LANE
+18,jimmy carter,5,figure,politics,LORELAI
+21,jimmy carter,5,figure,politics,EMILY
+5,jodie foster,5,figure,actor,EMILY
+4,john nash,5,figure,scientist,ZACH
+12,jon stewart,5,figure,comedian,LORELAI
+17,jonathon swift,5,figure,writer,LORELAI
+8,joseph mitchell,5,figure,writer,LOGAN
+21,joseph stalin,5,figure,politics,LORELAI
+3,judi dench,5,figure,actor,RORY
+10,jung,5,figure,scientist,PROF. BELL
+14,katie couric,5,figure,reporter,SOOKIE
+8,kelsey grammer,5,figure,actor,LORELAI
+4,ken burns,5,figure,producer,BRIAN
+5,kid flash,5,figure,musician,ZACH
+19,kiefer sutherland,5,figure,actor,PARIS
+2,krumholtzes,5,figure,actor,LORELAI
+6,lars ulrich,5,figure,musician,RORY
+3,lizzie grubman,5,figure,business,GYPSY
+18,lori loughlin,5,figure,actor,LORELAI
+11,louis armstrong,5,figure,musician,LORELAI
+19,luke skywalker,5,movie,character,DOYLE
+3,madonna,5,figure,musician,MADONNA LOUISE
+12,madonna,5,figure,musician,LANE
+3,madonna,5,figure,musician,MADONNA LOUISE
+3,mariah carey,5,figure,musician,LORELAI
+3,marilyn horne,5,figure,musician,MRS. CASINI
+6,marilyn munroe,5,figure,actor,SOOKIE
+21,marlo thomas,5,figure,actor,LORELAI
+21,marmaduke,5,movie,,KIRK
+15,marx brothers,5,figure,comedian,RORY
+2,mary magdalene,5,figure,religion,ZACH
+6,maureen dowd,5,figure,reporter,GLENN
+7,max ernst,5,figure,artist,GUY
+22,maxwell smart,5,show,character,COLIN
+12,mel brooks,5,figure,comedian,LUKE
+8,melrose larry green,5,figure,actor,LORELAI
+3,mike todd,5,figure,producer,PARIS
+10,milton berle,5,figure,comedian,LORELAI
+17,mira sorvino,5,figure,actor,COLIN
+15,miss nightingale,5,book,,LORELAI
+21,moby dick,5,book,,RORY
+17,monty,5,movie,,SOOKIE
+15,moulin rouge,5,movie,,LORELAI
+12,nancy drew,5,book,,RORY
+12,nathan lane,5,figure,actor,LUKE
+6,nick cave,5,figure,musician,LEN
+17,nick lachey,5,figure,musician,LORELAI
+13,nick nolte,5,figure,actor,LORELAI
+3,nicole richie,5,figure,personality,MARTY
+14,nietzsche,5,figure,writer,PARIS
+21,noam chomsky,5,figure,writer,RORY
+6,norman mailer,5,figure,writer,NORMAN MAILER
+21,norman mailer,5,figure,writer,LORELAI
+16,oprah,5,figure,personality,SOOKIE
+17,oprah,5,figure,personality,LORELAI
+3,orlando bloom,5,figure,actor,LOGAN
+17,pamela anderson,5,figure,actor,LORELAI
+10,pasqualie,5,figure,chef,LORELAI
+12,patrick stewart,5,figure,actor,LUKE
+12,patrick swayze,5,figure,actor,LORELAI
+3,patsy cline,5,figure,musician,LORELAI
+3,paul thomas anderson,5,figure,producer,LORELAI
+9,pauly shore,5,figure,comedian,LORELAI
+21,penelope cruz,5,figure,actor,SOOKIE
+20,pete sampras,5,figure,sports,LOGAN
+20,peter jennings,5,figure,reporter,LORELAI
+18,pippi,5,show,,LUKE
+5,pippi longstocking,5,show,,LORELAI
+8,pope,5,figure,religion,TJ
+20,pope,5,figure,religion,EMILY
+10,pushkin,5,figure,writer,RORY
+13,queer eye,5,show,,LORELAI
+18,queer eye,5,show,,PARIS
+17,quentin tarantino,5,figure,producer,RORY
+2,radiohead,5,music,,ZACH
+13,ramsey,5,figure,politics,LORELAI
+17,renee zellweger,5,figure,actor,RORY
+3,richard burton,5,figure,actor,LORELAI
+6,richard gere,5,figure,actor,LORELAI
+7,richard hottelet,5,figure,reporter,LOGAN
+5,richard pryor,5,figure,comedian,LORELAI
+10,richard widmark,5,figure,actor,LORELAI
+9,rob lowe,5,figure,actor,LORELAI
+19,rob schneider,5,figure,actor,LOGAN
+22,robert blake,5,figure,actor,LORELAI
+3,robert frost,5,figure,writer,EMILY
+20,ronald reagan,5,figure,politics,RORY
+20,roy cohn,5,figure,politics,LORELAI
+10,sabrina fairchild,5,movie,character,RORY
+1,sammy davis,5,figure,actor,RORY
+8,santa claus,5,figure,fictional,PARIS
+16,santa claus,5,figure,fictional,RORY
+17,sesame street,5,show,,EMILY
+12,seymour hersh,5,figure,writer,RORY
+2,shakespeare,5,figure,producer,WOMAN
+14,sherlock,5,book,,PARIS
+22,sheryl crow,5,figure,musician,LORELAI
+10,sigmund,5,figure,scientist,PROF. BELL
+13,sinatra,5,figure,musician,RICHARD
+17,spencer tracy,5,figure,actor,COLIN
+10,spike,5,,,RORY
+6,star trek convention,5,show,,DOYLE
+11,straub,5,figure,musician,RORY
+16,streisand,5,figure,musician,SOOKIE
+7,sugar ray robinson,5,figure,sports,LOGAN
+5,suge knight,5,figure,musician,LORELAI
+12,susan hayworth,5,figure,actor,CELINE
+10,suzanne somers,5,figure,actor,SOOKIE
+5,tex watson,5,figure,criminal,LORELAI
+13,thora birch,5,figure,actor,LORELAI
+16,tiger woods,5,figure,sports,RORY
+15,tom sawyer,5,book,,LORELAI
+4,tommy lee,5,figure,musician,LUKE
+11,tony kushner,5,figure,producer,RORY
+17,tony kushner,5,figure,producer,RORY
+14,tony randall,5,figure,actor,RORY
+6,van burens,5,figure,politics,PARIS
+2,velvet underground,5,music,,ZACH
+17,vincent vega,5,movie,character,FINN
+18,william mckinley,5,figure,politics,LORELAI
+18,william taft,5,figure,politics,LORELAI
+10,willy wonka,5,movie,character,LUKE
+11,winston churchill,5,figure,politics,RORY
+21,wolf blitzer,5,figure,reporter,SOOKIE
+20,zeppelin,5,figure,musician,LUKE
+12,aaron brown,6,figure,reporter,APRIL
+5,abigail adams,6,figure,politics,VIVIAN
+16,abraham lincoln,6,figure,politics,LORELAI
+19,alex backus,6,figure,reporter,RORY
+2,alexander hamilton,6,figure,politics,NORA
+22,alfred stieglitz,6,figure,artist,LOGAN
+6,alfredo garcia,6,movie,,RORY
+21,allman brothers,6,music,,SOOKIE
+5,andrews sisters,6,music,,EMILY
+4,anjelica huston,6,figure,actor,LORELAI
+2,ann coulter,6,figure,reporter,RICHARD
+16,anthony michael hall,6,figure,actor,LORELAI
+6,anthony michael hall,6,figure,actor,LORELAI
+16,arthur gordon,6,figure,writer,GORDON
+3,arthur murray,6,figure,teacher,LOGAN
+12,asian george clooney,6,figure,actor,ZACH
+20,audrey hepburn,6,figure,actor,LORELAI
+12,augusto pinochet,6,figure,politics,BILL
+19,avril lavigne,6,figure,musician,KYON
+10,axl rose,6,figure,musician,BRIAN
+5,babe ruth,6,figure,sports,NORA
+22,barney fife,6,show,character,TAYLOR
+22,baryshnikov,6,figure,dancer,MISS PATTY
+5,beatles,6,music,,SHIRA
+5,benny goodman,6,figure,musician,RICHARD
+10,beowulf,6,book,,LORELAI
+19,bernstein,6,figure,musician,JULIET
+15,betty friedan,6,figure,writer,RORY
+17,bill blass,6,figure,business,LORELAI
+10,bill gates,6,figure,business,CHRIS
+3,blake edwards,6,figure,producer,LUKE
+16,blondie,6,music,,RORY
+12,bob dylan,6,music,,ZACH
+3,bono,6,figure,musician,GIL
+14,brad pitt,6,figure,actor,LORELAI
+19,brian fuller,6,figure,actor,BRIAN
+4,brian jonestown,6,music,,KIRK
+16,brigitte nielsen,6,figure,actor,CHRISTOPHER
+17,britney spears,6,figure,musician,LORELAI
+19,buddha,6,figure,writer,KYON
+10,buddy hackett,6,figure,comedian,RORY
+15,cajun stompers,6,music,,BOOZOO
+22,cary grant,6,figure,actor,LORELAI
+1,cervantes,6,figure,writer,FINN
+6,charlie rose,6,figure,personality,RICHARD
+16,cher,6,figure,musician,LORELAI
+18,chris rock,6,figure,comedian,APRIL
+2,cirque du soleil,6,event,,LUKE
+4,clara barton,6,figure,scientist,RORY
+4,clara peller,6,figure,business,LORELAI
+22,clarence thomas,6,figure,politics,LORELAI
+20,colin farrell,6,figure,actor,MISS PATTY
+9,colin mccrea,6,figure,sports,COLIN
+19,dalai lama,6,figure,politics,LORELAI
+4,dandy warhols,6,music,,KIRK
+17,dave clark five,6,music,,MRS KIM
+16,david foster wallace,6,figure,writer,RORY
+19,deney terrio,6,figure,dancer,MICHEL
+16,dick cheney,6,figure,politics,CHRISTOPHER
+18,dick cheney,6,figure,politics,COLIN
+15,dixie chicks,6,music,,LORELAI
+11,dolly parton,6,figure,musician,LUKE
+7,don king,6,figure,reporter,LORELAI
+8,donald sutherland,6,figure,actor,LORELAI
+16,donald sutherland,6,figure,actor,LORELAI
+16,dorothy parker,6,figure,writer,RORY
+1,dylan thomas,6,figure,writer,LUKE
+1,einstein,6,figure,scientist,RORY
+1,ellen degeneres,6,figure,comedian,CHARLIE
+15,emilio estevez,6,figure,actor,LORELAI
+22,emily dickinson,6,figure,writer,LORELAI
+3,emmanuel lewis,6,figure,actor,MICHEL
+9,enjoy wisteria lane,6,show,place,LORELAI
+9,erik estrada,6,figure,actor,LORELAI
+6,esther wilkins,6,figure,writer,LORELAI
+16,faye dunaway,6,figure,actor,LOGAN
+17,florrie dugger,6,figure,actor,RORY
+3,foo fighters,6,music,,GIL
+21,frank williams,6,figure,business,RORY
+10,franz ferdinand,6,figure,musician,LANE
+18,franz kline,6,figure,artist,MATTHEW
+1,frida chalo,6,figure,artist,KIRK
+9,garfunkel,6,figure,musician,LORELAI
+2,garrison keillor,6,figure,writer,LORELAI
+12,gavin rossdale,6,figure,musician,RORY
+21,george clooney,6,figure,actor,EMILY
+2,george lucas,6,figure,producer,LORELAI
+5,george washington,6,figure,politics,NORA
+4,gilbert stuart,6,figure,artist,NORA
+4,gilbert stuart exhibit,6,figure,artist,EMILY
+5,glenn miller,6,figure,musician,RICHARD
+18,golda meir,6,figure,politics,CHRIS
+5,grizzly adams,6,movie,,LORELAI
+5,grover norquist,6,figure,politics,NORA
+22,guy fawkes,6,figure,activist,LOGAN
+10,gwen stefani,6,figure,musician,ZACH
+12,gwen stefani,6,figure,musician,RORY
+22,gwyneth paltrow,6,figure,actor,RORY
+20,hagrid,6,book,character,LUKE
+21,harrison ford,6,figure,actor,JACKSON
+3,harry potter,6,book,,GIL
+20,harry potter,6,book,,ANNA
+11,heather torrance,6,figure,actor,PARIS
+8,hemingway,6,figure,writer,LOGAN
+7,hercules,6,figure,mythology,LUKE
+15,herman melville,6,figure,writer,LORELAI
+18,herman melville,6,figure,writer,writer
+12,howell raines,6,figure,reporter,PARIS
+2,iggy pop,6,figure,musician,LORELAI
+15,ina garten,6,figure,actor,LORELAI
+11,ivan denisovich,6,book,,PARIS
+10,jack white,6,figure,sports,ZACH
+4,jackson matthew belleville,6,figure,musician,REV.SKINNER
+18,jackson pollock,6,figure,artist,MATTHEW
+7,james bond,6,movie,character,LORELAI
+11,james brown,6,figure,musician,LORELAI
+2,james madison,6,figure,politics,DAR LADY3
+11,james madison,6,figure,politics,LANE
+17,janet leigh,6,figure,actor,LORELAI
+4,jefferson davis,6,figure,politics,LORELAI
+19,jenna jameson,6,figure,business,CHRISTOPHER
+18,jerry lewis,6,figure,actor,CAESAR
+19,jimmy kimmel,6,figure,comedian,PARIS
+15,joan didion,6,figure,writer,LORELAI
+6,joan rivers,6,figure,comedian,MICHEL
+9,joe klein,6,figure,reporter,RORY
+21,john cleese,6,figure,actor,LOGAN
+20,john hughes,6,figure,producer,KIRK
+22,johnny carson,6,figure,comedian,EMILY
+19,joy division,6,music,,KYON
+14,judith miller,6,figure,reporter,PARIS
+11,judy blume,6,book,,ANNA
+19,judy garland,6,figure,actor,MICHEL
+21,julia roberts,6,figure,actor,MICHEL
+5,karl marx,6,figure,politics,PARIS
+6,katie couric,6,figure,reporter,EMILY
+12,katie couric,6,figure,reporter,LORELAI
+3,katie holmes,6,figure,actor,SOOKIE
+4,ken burns,6,figure,producer,LORELAI
+2,kenny chesney,6,figure,musician,LORELAI
+12,korean brad pitt,6,figure,actor,ZACH
+2,larry tate,6,show,character,LORELAI
+10,lenny kravitz,6,figure,musician,LORELAI
+18,lincoln,6,figure,politics,LUKE
+17,lindsay lohan,6,figure,actor,RORY
+13,louis armstrong,6,figure,musician,LOGAN
+10,louis prima,6,figure,musician,LORELAI
+5,lucille ball,6,figure,actor,LORELAI
+11,macaulay culkin,6,figure,actor,ANNA
+7,madeleine albright,6,figure,politics,RORY
+21,marcus welby,6,show,,EMILY
+15,mario batali,6,figure,chef,LORELAI
+4,marlon brando,6,figure,actor,BRIAN
+10,martha stewart,6,figure,business,LUKE
+4,martha washington,6,figure,politics,CURATOR
+11,martin luther king,6,figure,activist,Dr.SHAPIRO
+16,mary poppins,6,movie,,CHRISTOPHER
+22,mary poppins,6,movie,,LOGAN
+12,matt lauer,6,figure,actor,LORELAI
+12,matthew mcconaughey,6,figure,actor,LUKE
+16,maureen dowd,6,figure,reporter,RORY
+17,mccartney,6,figure,musician,ZACH
+13,meryl streep,6,figure,actor,LORELAI
+18,metallica,6,music,,CAESAR
+2,michael corleone,6,movie,character,LUKE
+4,mick jagger,6,figure,musician,RORY
+13,mildred pierce,6,book,,RORY
+13,mildred pierce,6,book,,RORY
+4,miss manners,6,figure,reporter,SOOKIE
+20,molly ringwald,6,figure,actor,LORELAI
+5,mortimer adler,6,figure,writer,RICHARD
+10,motley crue,6,music,,LUKE
+13,mozart,6,figure,musician,LORELAI
+17,nancy grace,6,figure,reporter,LORELAI
+21,neil young,6,figure,musician,SOOKIE
+22,neil young,6,figure,musician,TROUBADOUR
+4,nicholas nickleby,6,book,,JACKSON
+2,nicole kidman,6,figure,actor,LORELAI
+10,nicole kidman,6,figure,actor,RORY
+21,nicole kidman,6,figure,actor,MICHEL
+11,nigella lawson,6,figure,reporter,Mrs.KIM
+3,nirvana,6,music,,LANE
+3,nixon,6,figure,politics,EMILY
+13,nora ephron,6,figure,reporter,LOGAN
+6,norma rae,6,figure,activist,LORELAI
+8,oliver twist,6,book,,LORELAI
+10,oompa loompas,6,movie,character,CHRIS
+14,pat benatar,6,figure,musician,LORELAI
+22,pat boone,6,figure,musician,TAYLOR
+15,pete doherty,6,figure,musician,LOGAN
+11,pete townsend,6,figure,musician,KIRK
+11,peter brook,6,figure,producer,PARIS
+22,petula clark,6,figure,musician,PETULA CLARK
+7,pia zadora,6,figure,musician,LUKE
+10,reo speedwagon,6,music,,ZACH
+19,richard gere,6,figure,actor,ZACH
+13,rita wilson,6,figure,actor,LOGAN
+8,robert musil,6,figure,writer,LOGAN
+19,ronald winston,6,figure,business,RORY
+8,sam peckinpah,6,figure,producer,LORELAI
+5,samuel beckett,6,figure,writer,RICHARD
+20,santa claus,6,figure,fictional,SOOKIE
+21,sarah bernhardt,6,figure,actor,LORELAI
+21,scarlett johansson,6,figure,actor,MICHEL
+6,scooby doo lane,6,show,,LUKE
+17,scott baio,6,figure,actor,RORY
+10,seamus heaney,6,figure,writer,RORY
+17,sid fields,6,figure,actor,LORELAI
+14,somerset maugham,6,figure,writer,LUKE
+20,sophia loren,6,figure,actor,LORELAI
+22,sopranos,6,show,,LORELAI
+11,stalin,6,figure,politics,PARIS
+1,star treck,6,show,,EMILY
+11,steinbeck,6,figure,writer,DOYLE
+11,streisand,6,figure,musician,SOOKIE
+4,susan powter,6,figure,personality,SOOKIE
+5,swan lake,6,show,,SOOKIE
+15,thucydides,6,figure,historian,LOGAN
+3,tom cruise,6,figure,actor,SOOKIE
+4,tom cruise,6,figure,actor,LORELAI
+11,tom cruise,6,figure,actor,LORELAI
+19,tommy lee,6,figure,musician,LORELAI
+11,tony danza,6,figure,actor,LORELAI
+9,valerie cherish,6,show,character,LORELAI
+3,valerie plame,6,figure,politics,EMILY
+20,vanessa minnillo,6,figure,actor,MARCIA
+8,viggo mortensen,6,figure,actor,LORELAI
+10,warren beatty,6,figure,actor,LIZ
+5,wendie malick,6,figure,actor,PARIS
+3,wizard of oz,6,movie,,MICHEL
+11,wizard of oz,6,movie,,PARIS
+4,wonder woman,6,show,,COLIN
+16,woody allen,6,figure,producer,WALKER
+9,yao ming,6,figure,sports,LORELAI
+19,air supply,7,music,,LORELAI
+18,alexander haig,7,figure,politics,RORY
+13,andrews sisters,7,music,,RORY
+4,anna pavlova,7,figure,dancer,MISS PATTY
+20,annabelle loren,7,movie,character,ANNABELLE
+16,anthony quinn,7,figure,actor,MISS PATTY
+6,antiques roadshow,7,show,,KIRK
+4,audrey hepburn,7,figure,actor,LORELAI
+14,aynsley dunbar,7,figure,musician,ZACH
+8,barack obama,7,figure,politics,RORY
+22,barack obama,7,figure,politics,LORELAI
+2,battlestar galactica,7,show,,T.J.
+1,bette davis,7,figure,actor,LORELAI
+14,bill clinton,7,figure,politics,PARIS
+21,bill clinton,7,figure,politics,RICHARD
+20,bill keller,7,figure,reporter,RORY
+11,bing crosby,7,figure,musician,BING CROSBY
+15,bob tway,7,figure,sports,RICHARD
+5,bobby brady,7,show,character,RORY
+5,bobby brown,7,figure,musician,RORY
+20,bobby conn,7,figure,musician,ZACH
+5,bobby kennedy,7,figure,politics,RORY
+5,bobby knight,7,figure,sports,RORY
+13,bobby short,7,figure,musician,RORY
+20,boy george,7,figure,musician,ZACH
+17,brenda starr,7,figure,musician,LORELAI
+5,broadway danny rose,7,movie,,LORELAI
+2,bruce lee,7,figure,actor,LORELAI
+10,burt bacharach,7,figure,musician,LORELAI
+6,carmen electra,7,figure,actor,EMILY
+13,chad hurley,7,figure,business,LOGAN
+1,charles manson,7,figure,criminal,PARIS
+22,christiane amanpour,7,figure,reporter,RORY
+13,chuck berry,7,figure,musician,RORY
+6,cleopatra,7,figure,politics,LORELAI
+13,cole porter,7,figure,musician,RORY
+14,colin farrell,7,figure,actor,PARIS
+14,congwen shen,7,figure,writer,RORY
+2,courtney love,7,figure,actor,LANE
+12,dan abrams,7,figure,personality,RORY
+20,dave coulier,7,figure,comedian,LORELAI
+21,david blaine,7,figure,magician,LORELAI
+18,david hasselhoff,7,figure,actor,RORY
+20,debbie harry,7,figure,musician,BABETTE
+13,debussy,7,figure,musician,RORY
+16,dickens,7,figure,writer,KIRK
+18,don corleone,7,movie,character,RORY
+13,donald trump,7,figure,personality,RORY
+7,edvard munch,7,figure,artist,OLIVIA
+1,elton john,7,figure,musician,RORY
+14,elton john,7,figure,musician,ZACH
+20,eminem,7,figure,musician,ZACH
+20,ethel merman,7,figure,actor,BABETTE
+1,evel knievel,7,figure,actor,RORY
+19,farrah fawcett,7,figure,actor,SOOKIE
+5,flaubert,7,figure,writer,RORY
+8,fran lebowitz,7,figure,writer,RORY
+10,franco zeffirelli,7,figure,producer,RANDALL
+5,franz ferdinand,7,figure,musician,RICHARD
+4,fred astaire,7,figure,musician,CHRISTOPHER
+10,fred astaire,7,figure,musician,LUCY
+13,freudian,7,figure,scientist,RORY
+10,garrison keillor,7,figure,writer,LUCY
+6,george bush,7,figure,politics,JONI
+8,george jetson,7,show,character,LORELAI
+16,george maloof,7,figure,business,LOGAN
+8,george plimpton,7,figure,reporter,LOGAN
+7,gerard depardieu,7,figure,actor,CHRISTOPHER
+14,gloria steinem,7,figure,activist,RORY
+15,greg norman,7,figure,sports,RICHARD
+6,groucho marx,7,figure,actor,LORELAI
+11,gulag orkestar,7,music,,ZACH
+2,gwyneth,7,figure,actor,RORY
+2,gwyneth paltrow,7,figure,actor,RORY
+22,harry belafonte,7,figure,actor,MICHEL
+3,helen keller,7,figure,writer,LORELAI
+13,henry kissinger,7,figure,politics,BABETTE
+21,henry kissinger,7,figure,politics,RICHARD
+3,henry lee,7,figure,criminal,LANE
+3,henry miller,7,figure,writer,LANE
+21,henry winkler,7,figure,actor,LORELAI
+2,holly golightly,7,movie,character,LORELAI
+20,iggy,7,figure,musician,ZACH
+13,imelda marcos,7,figure,politics,RORY
+3,imogene coca,7,figure,actor,CHARLOTTE
+14,isabel allende,7,figure,writer,LOGAN
+19,jack bauer,7,show,character,LORELAI
+20,jackson pollock,7,figure,artist,RORY
+18,jake gyllenhaal,7,figure,actor,PARIS
+15,james reston,7,figure,reporter,RORY
+11,jethro burns,7,figure,musician,ZACH
+7,jim morrison,7,figure,musician,CHRISTOPHER
+14,joe lieberman,7,figure,politics,PARIS
+8,joe mcmillan,7,show,character,BOBBI
+16,john adams,7,figure,politics,MRS KIM
+8,john turturro,7,figure,actor,LOGAN
+2,keanu reeves,7,figure,actor,LIZ
+9,kiki smith,7,figure,artist,RICHARD
+12,kinsey millhone,7,book,character,JACKSON
+11,lenny bruce,7,figure,comedian,LORELAI
+3,lincoln,7,figure,politics,EMILY
+2,linda blair,7,figure,actor,ZACH
+18,louise erdrich,7,figure,writer,APRIL
+9,madame defarge,7,movie,character,CHRISTOPHER
+13,maggie blues,7,music,,RORY
+5,maria sharapova,7,figure,sports,EMILY
+8,marie antoinette,7,figure,politics,LOGAN
+22,marisa tomei,7,figure,actor,LORELAI
+13,mark zuckerberg,7,figure,business,LOGAN
+9,martha stewart,7,figure,business,CHRISTOPHER
+9,marty schwarzenegger,7,figure,actor,MARTY
+20,maureen dowd,7,figure,reporter,RORY
+2,michael jackson,7,figure,musician,RORY
+11,mick jagger,7,figure,musician,ZACH
+16,mickey mouse,7,show,character,APRIL
+2,mickey rooney,7,figure,reporter,LORELAI
+21,milan kundera,7,figure,writer,LORELAI
+5,milton berle,7,figure,comedian,LORELAI
+13,milton friedman,7,figure,business,RORY
+4,miss daisy,7,movie,,LORELAI
+14,mozart,7,figure,musician,LORELAI
+1,mr. demille,7,figure,producer,TAYLOR
+14,nadine strossen,7,figure,politics,PARIS
+17,neil young,7,figure,musician,ZACH
+22,nick walker,7,figure,artist,BABETTE
+15,nicole richie,7,figure,personality,LORELAI
+3,noel coward,7,figure,producer,BEVERLY
+8,norma rae,7,figure,activist,LOGAN
+13,norman greenbaum,7,figure,musician,RICHARD
+18,oprah,7,figure,personality,RORY
+18,orlando bloom,7,figure,actor,PARIS
+20,osama bin laden,7,figure,criminal,RICHARD
+4,oscar wilde,7,figure,writer,LUCY
+8,paris hilton,7,figure,actor,FEMALE GUEST
+1,paul anka,7,figure,musician,BABETTE
+3,paul anka,7,figure,musician,RORY
+4,paul anka,7,figure,musician,CHRISTOPHER
+5,paul anka,7,figure,musician,LORELAI
+6,paul anka,7,figure,musician,LORELAI
+9,paul anka,7,figure,musician,LORELAI
+12,paul anka,7,figure,musician,CHRISTOPHER
+13,paul anka,7,figure,musician,LORELAI
+20,paul anka,7,figure,musician,LORELAI
+21,paul anka,7,figure,musician,LORELAI
+18,paul revere,7,figure,politics,RORY
+14,payne whitney,7,figure,business,RORY
+13,persephone,7,figure,mythology,LORELAI
+4,peter brook,7,figure,producer,LUCY
+8,philadelphia story,7,movie,,LUKE
+2,rachel griffiths,7,figure,actor,LANE
+21,ray charles,7,figure,musician,EMILY
+12,reggie bush,7,figure,sports,CHRISTOPHER
+10,rene fleming,7,figure,musician,RANDALL
+15,richard iii,7,figure,politics,LORELAI
+14,robert downey,7,figure,actor,PARIS
+21,robin williams,7,figure,actor,LORELAI
+9,rockefeller,7,figure,politics,PARIS
+2,rockettes,7,music,,LUKE
+8,roland barthes,7,figure,writer,RORY
+20,roosevelt,7,figure,politics,MRS OMALLEY
+15,rupert murdoch,7,figure,business,LOGAN
+18,sally jessy,7,figure,personality,APRIL
+5,samuel johnson,7,figure,writer,RORY
+2,sandra bullock,7,figure,actor,LIZ
+2,sandra oh,7,figure,actor,RORY
+12,sanjay gupta,7,figure,reporter,PARIS
+2,santa claus,7,figure,fictional,LANE
+13,schubert,7,figure,musician,RORY
+13,scott joplin,7,figure,musician,RORY
+13,sean connery,7,figure,actor,BABETTE
+18,seymour hersh,7,figure,writer,RORY
+11,sharon stone,7,figure,actor,LORELAI
+3,shirley temple,7,figure,actor,LORELAI
+15,shirley temple,7,figure,actor,EMILY
+13,sir arthur conan doyle,7,figure,politics,RORY
+3,slim keith,7,figure,personality,BEVERLY
+11,smiths,7,music,,ZACH
+14,snoop doggy dogg,7,figure,musician,MICHEL
+16,snoopy,7,show,,BABETTE
+5,sofia coppola,7,figure,actor,RORY
+3,stephen hawking,7,figure,scientist,RORY
+13,steve chen,7,figure,business,LOGAN
+11,steve goodman,7,figure,actor,ZACH
+13,suzanna shaw,7,figure,actor,EMILY
+8,tama janowitz,7,figure,writer,OLIVIA
+6,tolstoy,7,figure,writer,LORELAI
+22,tom brokaw,7,figure,reporter,LORELAI
+11,tom hanks,7,figure,actor,RORY
+2,tom selleck,7,figure,actor,LORELAI
+7,tony orlando,7,figure,musician,OLIVIA
+17,tony soprano,7,show,character,LORELAI
+4,tonya harding,7,figure,sports,MISS PATTY
+5,van gogh,7,figure,artist,RORY
+13,warren beatty,7,figure,actor,BABETTE
+11,white stripes,7,music,,ZACH
+17,will smith,7,figure,actor,RORY
+17,willie nelson,7,figure,musician,LORELAI
+11,woody allen,7,figure,producer,LORELAI
+6,zelda,7,figure,writer,LORELAI
+17,zeppelin,7,figure,musician,LUKE
+6,zombie jamboree,7,music,,LORELAI
